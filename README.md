@@ -24,7 +24,7 @@ on the latest features added to wxWidgets.
 Download & uncompress the [source code zip archive](https://github.com/reingart/gui2py/archive/master.zip),
 or check out the git repository using mercurial [hg-git](http://hg-git.github.io/) (or git directly):
 
-    hg clone git+https://github.com/reingart/gui2py.git
+    git clone git+https://github.com/reingart/gui2py.git
     cd gui2py
     python setup.py install
 
